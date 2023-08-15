@@ -1,0 +1,9 @@
+pip install pillow
+pip install pandas
+pip install pdf2docx
+pip install docx2pdf
+pip install pdf2img
+pip install pdfkit
+pip install pypdf2
+pip install fpdf
+pip install pdf2txt
